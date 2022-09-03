@@ -1,0 +1,10 @@
+
+h1 {
+    text-align: center;     /* 标题居中 */
+    border: 1px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
